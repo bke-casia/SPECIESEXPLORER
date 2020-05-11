@@ -1,6 +1,6 @@
 ## SpeciesExplorer ([Project Tutorial](https://sssgrowth.github.io/SPECIESEXPLORER/))
 ### + Updating... +
-This project contains the experimental datasets and codes. This is a preview version of the tutorial. The detailed descriptions are still in the making. 
+This project contains the experimental datasets and codes. This is a preview version of the tutorial. The detailed descriptions are still in the making. [Original version](https://github.com/sssgrowth/SPECIESEXPLORER)
 
 ### Contents
 
